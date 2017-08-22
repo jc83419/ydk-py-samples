@@ -1,0 +1,7 @@
+Sending 5, 100-byte ICMP Echos to 10.0.0.1, timeout is 2 seconds:
+Reply to request 0 (5 ms)
+Reply to request 1 (2 ms)
+Reply to request 2 (1 ms)
+Reply to request 3 (2 ms)
+Reply to request 4 (1 ms)
+Success rate is 100 percent (5/5), round-trip min/avg/max = 1/2/5 ms
